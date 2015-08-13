@@ -52,7 +52,11 @@ Toekomst
 Welke zaken kunnen in de toekomst van belang zijn?
 --------------------------------------------------
 
-Wat zijn 
+Is het bekend of het OS te upgraden is naar een volgende versie
+---------------------------------------------------------------
+
+Is het bekend of de service te upgraden is naar een volgende versie
+------------------------------------------------------------------- 
 
 Backup
 ======
@@ -86,11 +90,6 @@ A (Acceptatie) Is deze er? Wie heeft er rechten toe?
 
 P (Productie) Is deze er? Wie heeft er rechten toe?
 ---------------------------------------------------
-
-
-
-
-
 
 Documentatie
 ============
@@ -203,7 +202,6 @@ Hoe wordt bepaald welke perfomance acceptabel is?
 Is er een beschikbaarheid bij calamiteiten? (Disaster Recovery)
 ---------------------------------------------------------------
 
-
 Monitoring
 ==========
 
@@ -225,8 +223,6 @@ Welke monitoring is er beschikbaar?
 Opleiding
 =========
 
-Is er binnen serverbeheer de capaciteit en kwaliteit aanwezig om het product te kunnen beheren?
------------------------------------------------------------------------------------------------
 
 Service Level Management
 ========================
@@ -276,6 +272,9 @@ Change Management
 Standaard changes gedefinieerd en geaccordeerd
 ----------------------------------------------
 
+Updates zijn gedocumenteerd
+---------------------------
+
 Incident Management
 ===================
 
@@ -299,7 +298,6 @@ CI's ingevoerd in CMDB
 
 CMDB structuur geschikt voor opname CI's
 ----------------------------------------
-
 
 Security
 ========
@@ -350,11 +348,6 @@ Is er een audit-logging?
 ------------------------
 
 
-Algemeen
-========
-
-Overige tooling benodigd voor beheer
-------------------------------------
 
 Ondertekening
 =============
@@ -450,20 +443,13 @@ Wie regelt het herstel van de hele server?
 ------------------------------------------
 
 Wie regelt het herstel van individuele files?
----------------------------------------------
-
-Wie regelt de roll-back bij wijzigen?
 -------------------------------------
 
-Beheertooling
-=============
+Overig
+======
 
-Welke beheertooling is er en door wie wordt deze gebruikt?
-----------------------------------------------------------
+Is er binnen elke afdeling de capaciteit en kwaliteit aanwezig om het product te kunnen beheren?
+-----------------------------------------------------------------------------------------------
 
-
-
-
-
-
-
+Overige tooling benodigd voor beheer
+------------------------------------
