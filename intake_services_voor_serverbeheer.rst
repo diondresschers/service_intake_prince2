@@ -15,7 +15,7 @@ Hoe PINO projecten te voorkomen
 
 :Auteur: Dion Dresschers
 :Datum: 2015-08-05
-:Versie: 0.001
+:Versie: 2015-08-13-00
 :Licentie: CC-BY-SA 3.0 Dion Dresschers
 :Licentie plaatjes: CC BY 2.0 door EvelynGiggles https://creativecommons.org/licenses/by/2.0/ (foto geëxporteerd naar PNG)
 
