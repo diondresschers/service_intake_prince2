@@ -252,6 +252,8 @@ Welke monitoring is er beschikbaar?
 Opleiding
 =========
 
+Welke opleiding is er nodig voor de betrokken personen?
+-------------------------------------------------------
 
 Service Level Management
 ========================
@@ -382,32 +384,6 @@ Is er alleen toegang voor geauthenticeerde en geauthoriseerde beheerders?
 Is er een audit-logging?
 ------------------------
 
-
-
-Ondertekening
-=============
-
-Naam, Functie, Datum, Handtekening
-----------------------------------
-
-Hoe wordt bepaald welke perfomance acceptabel is?
--------------------------------------------------
-
-Senior User (uit project Board)
--------------------------------
-
-Executive  (uit project Board)
-------------------------------
-
-Senior Supplier (uit project Board)
------------------------------------
-
-Project Manager 
----------------
-
-Team Manager
-------------
-
 Beheer
 ======
 
@@ -486,5 +462,29 @@ Overig
 Is er binnen elke afdeling de capaciteit en kwaliteit aanwezig om het product te kunnen beheren?
 -----------------------------------------------------------------------------------------------
 
+Hoe wordt bepaald welke perfomance acceptabel is?
+-------------------------------------------------
+
 Overige tooling benodigd voor beheer
 ------------------------------------
+
+Ondertekening
+=============
+
+Naam, Functie, Datum, Handtekening
+----------------------------------
+
+Senior User (uit project Board)
+-------------------------------
+
+Executive  (uit project Board)
+------------------------------
+
+Senior Supplier (uit project Board)
+-----------------------------------
+
+Project Manager 
+---------------
+
+Team Manager
+------------
