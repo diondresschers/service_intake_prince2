@@ -39,8 +39,22 @@ Doelstelling
 Business case
 -------------
 
-Projectresultaten
------------------
+Projectresultaten (SMART)
+-------------------------
+
+Fasering en Besluitmomenten
+
+Fase 1
+------
+
+Fase 2
+------
+
+Fase 3
+------
+
+Fase etc.
+---------
 
 Technisch Werkend Product
 =========================
@@ -89,21 +103,6 @@ Is het systeem geheel geconfigureerd en herconfigureerdbaar met een configuratio
 
 Is er in bepaalde gevallen dataverlies mogelijk en zo ja over welke data gaat het?
 ----------------------------------------------------------------------------------
-
-Security & Privacy
-==================
-
-Waar staat de informatie opgeslagen?
-------------------------------------
-
-Is de opslag van die data volgens institutioneel of wettelijk beleid?
----------------------------------------------------------------------
-
-Wie heeft toegang tot die data?
--------------------------------
-
-Wat zijn de risico's bij het uitlekken van de data?
----------------------------------------------------
 
 OTAP
 ====
@@ -354,6 +353,12 @@ Wat voor zaken wordt door het syteem gelogd?
 
 Wat is het risico van dataontvreemding
 --------------------------------------
+
+Waar staat de informatie opgeslagen?
+------------------------------------
+
+Is de keuze van opslag van die data volgens institutioneel of wettelijk beleid?
+-------------------------------------------------------------------------------
 
 Zijn er bij een security riciso, bevoegdheden om de service tijdelijk  te staken?
 ---------------------------------------------------------------------------------
