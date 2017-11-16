@@ -76,6 +76,21 @@ Is het systeem geheel geconfigureerd en herconfigureerdbaar met een configuratio
 Is er in bepaalde gevallen dataverlies mogelijk en zo ja over welke data gaat het?
 ----------------------------------------------------------------------------------
 
+Security & Privacy
+==================
+
+Waar staat de informatie opgeslagen?
+------------------------------------
+
+Is de opslag van die data volgens institutioneel of wettelijk beleid?
+---------------------------------------------------------------------
+
+Wie heeft toegang tot die data?
+-------------------------------
+
+Wat zijn de risico's bij het uitlekken van de data?
+---------------------------------------------------
+
 OTAP
 ====
 
