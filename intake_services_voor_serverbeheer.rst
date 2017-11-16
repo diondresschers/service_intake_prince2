@@ -25,8 +25,22 @@ Hoe PINO projecten te voorkomen
 Doel van dit document
 =====================
 
-De ervaring leert dat projecten niet altijd lopen zoals ze zouden moeten lopen. Dit document heeft als doel een soort checklijst te zijn zodat gecontrolleerd kan worden of aan alle zaken gedacht is voordat de nieuwe service in beheer wordt genomen. Het document probeert zich uiteindelijk zoveel mogelijk te richten tot PRINCE2 en zal in de beginfase verre van volledig zijn.
+De ervaring leert dat projecten niet altijd lopen zoals ze zouden moeten lopen. Dit document heeft als doel een soort checklijst te zijn zodat gecontrolleerd kan worden of aan alle zaken gedacht is voordat de nieuwe service in beheer wordt genomen. Het document probeert zich uiteindelijk zoveel mogelijk te richten tot PRINCE2 en zal in de beginfase verre van volledig zijn. Dit is om PINO projecten te voorkomen (Prince2 In Name Only).
 
+Intake omschrijving
+===================
+
+Aanleiding
+----------
+
+Doelstelling
+------------
+
+Business case
+-------------
+
+Projectresultaten
+-----------------
 
 Technisch Werkend Product
 =========================
